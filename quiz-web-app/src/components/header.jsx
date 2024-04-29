@@ -6,7 +6,7 @@ function Header() {
     <div id="header" className="py-4">
       <div className="container mx-auto flex items-center justify-between">
         <Link to="/">
-          <img src={homeImage} alt="Logo" className="logo w-48 justify-start ml-2" />
+          <img src={homeImage} alt="Logo" className="logo w-48 justify-start ml-12" />
         </Link>
         <div className="flex items-center">
           <ul id="sidemenue" className="hidden md:flex space-x-6">

@@ -19,7 +19,7 @@ function App() {
         <Route path="/" element={<Navigation />} /> 
         <Route path="/home" element={<Navigation />} /> 
         <Route path="/flashcard" element={<Navigation />} /> 
-        <Route path="/contact" element={<Contact />} /> 
+        <Route path="/contact" element={<Navigation />} /> 
         <Route path="/faq" element={<Navigation />} /> 
       </Routes>
       <CreateFlashCard />

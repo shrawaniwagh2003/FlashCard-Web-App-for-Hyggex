@@ -16,8 +16,8 @@ function App() {
       <Header />
       <BreadCrumb /> {/* Render the Breadcrumb component */}
       <Routes>
-        <Route path="/" element={<Home />} /> 
-        <Route path="/home" element={<Home />} /> 
+        <Route path="/" element={<Navigation />} /> 
+        <Route path="/home" element={<Navigation />} /> 
         <Route path="/flashcard" element={<Navigation />} /> 
         <Route path="/contact" element={<Contact />} /> 
         <Route path="/faq" element={<Navigation />} /> 

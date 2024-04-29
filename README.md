@@ -16,7 +16,7 @@ This is a website that provides various features such as navigation, creating fl
 1. Clone the repository: `git clone <repository-url>`
 2. Navigate to the project directory: `cd project-directory`
 3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
+4. Start the development server: `npm run dev`
 
 ## Usage
 
